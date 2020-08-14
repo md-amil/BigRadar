@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184792475237",
+    "firebase_url": "https://bigradar-796ea.firebaseio.com",
+    "project_id": "bigradar-796ea",
+    "storage_bucket": "bigradar-796ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184792475237:android:e18d2a3731d7011cf5088c",
+        "android_client_info": {
+          "package_name": "io.bigradar.app.bigradar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184792475237-tvvb880a86fikt3lb5ve2g3j58olqtg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.bigradar.app.bigradar",
+            "certificate_hash": "93adf888a23a6de5e8e1b35a52e327ea714666ca"
+          }
+        },
+        {
+          "client_id": "184792475237-ankmiif06n7e9p1vpml4hmfknm5avc8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqLYlg8mfB6VVCO3XFZNgrs48sDn4b6XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184792475237-ankmiif06n7e9p1vpml4hmfknm5avc8s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184792475237-r8a5k8ug10sm0jj0rer80m1gsfjm5q7q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edunuts.BigRadar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

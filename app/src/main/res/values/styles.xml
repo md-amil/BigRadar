@@ -1,0 +1,45 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.WhiteAccent">
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.PrimaryAccent">
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="MyEditTextTheme">
+        <item name="colorControlNormal">@color/colorBorder</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+    </style>
+    <style name="menu_labels_style">
+        <item name="android:background">@color/half_black</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="ChipStyle" >
+        <item name="chipBackgroundColor">@color/blue_semi_transparent</item>
+        <item name="android:textColor">@color/half_black</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+
+
+
+    <!--    <style name="AppTheme.NoActionBar">-->
+<!--        <item name="windowActionBar">false</item>-->
+<!--        <item name="windowNoTitle">true</item>-->
+<!--    </style>-->
+
+<!--    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />-->
+
+<!--    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />-->
+
+</resources>
